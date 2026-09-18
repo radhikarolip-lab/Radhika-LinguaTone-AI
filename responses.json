@@ -1,0 +1,14 @@
+{
+  "greetings": {
+    "professional": "Good day. How may I assist you today?",
+    "personal": "Hey! What's up? 😊"
+  },
+  "how_are_you": {
+    "professional": "I am doing well, thank you. How may I help you?",
+    "personal": "I'm good! How about you 😄"
+  },
+  "bye": {
+    "professional": "Goodbye. Have a great day ahead.",
+    "personal": "Bye! Take care 😄"
+  }
+}
